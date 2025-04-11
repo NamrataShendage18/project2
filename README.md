@@ -1,4 +1,4 @@
 # New Project 
 
 This project was created from local system.
-created by Namrata Shendage.
+Created by Namrata Shendage.
